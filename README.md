@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 <h3 align="center">A passionate frontend developer from Saint-Petersburg</h3>
-<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" >
+<img align="right" alt="coding" width="450" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 
 - 🔭 I’m currently working on **ProSki**
 
